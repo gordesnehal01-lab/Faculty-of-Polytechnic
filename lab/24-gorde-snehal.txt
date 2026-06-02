@@ -10,3 +10,13 @@ print("odd")
 Number(a)
 number(b)
 number(c)
+
+#problem3
+def check e 0(n)
+if n % 2==0:
+  print("even")
+else:
+  print:("odd")
+check(a)
+check(b)
+check(c)
