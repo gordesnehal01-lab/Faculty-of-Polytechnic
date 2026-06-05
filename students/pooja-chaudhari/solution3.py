@@ -16,5 +16,3 @@ for x in s:
         c.add(x)
 print("vowels=",v)
 print("consonants=",c)
-        
-
